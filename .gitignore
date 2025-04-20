@@ -1,4 +1,4 @@
-gdrive_service_account.json
+.dvc/gdrive_service_account.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
