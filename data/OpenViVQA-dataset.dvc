@@ -1,0 +1,6 @@
+outs:
+- md5: b0baa40ac536cfbdd606712f51a1421b.dir
+  size: 1679929273
+  nfiles: 11200
+  hash: md5
+  path: OpenViVQA-dataset

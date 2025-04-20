@@ -1,0 +1,9 @@
+[core]
+    remote = gdrive_remote
+[cache]
+    type = "hardlink,symlink"
+['remote "gdrive_remote"']
+    url = gdrive://1yPzNj4hYX75M1sqFWZZ0PmOF7X_XUD88
+    gdrive_use_service_account = true
+    gdrive_acknowledge_abuse = true
+    gdrive_service_account_json_file_path = ./gdrive_service_account.json
