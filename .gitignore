@@ -1,5 +1,7 @@
 .dvc/gdrive_service_account.json
 data/OpenViVQA-dataset/images
+data/OpenViVQA-dataset/
+data/LANDMARK-IN-VIETNAM/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
