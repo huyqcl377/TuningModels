@@ -2,6 +2,8 @@
 data/OpenViVQA-dataset/images
 data/LANDMARK-IN-VIETNAM/
 
+ViCLIP_landmark/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
