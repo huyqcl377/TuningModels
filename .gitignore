@@ -2,7 +2,7 @@
 data/OpenViVQA-dataset/
 data/OpenViVQA-dataset/
 data/LANDMARK-IN-VIETNAM/
-data/UIT-OPENViIC-dataset
+data/UIT-OPENViIC-dataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
